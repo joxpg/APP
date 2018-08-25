@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id_reporte: 
+  tipo_reporte: 
+  id_corrdenada: 
+  comentario_reporte: MyString
+  foto_reporte: 
+  id_usu: 
+  fecha_creacion_report: 2018-08-25 04:31:49
+  fecha_modificacion_report: 2018-08-25 04:31:49
+  estado_reporte: 
+
+two:
+  id_reporte: 
+  tipo_reporte: 
+  id_corrdenada: 
+  comentario_reporte: MyString
+  foto_reporte: 
+  id_usu: 
+  fecha_creacion_report: 2018-08-25 04:31:49
+  fecha_modificacion_report: 2018-08-25 04:31:49
+  estado_reporte: 
