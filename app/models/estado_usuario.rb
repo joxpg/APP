@@ -1,0 +1,2 @@
+class EstadoUsuario < ApplicationRecord
+end
